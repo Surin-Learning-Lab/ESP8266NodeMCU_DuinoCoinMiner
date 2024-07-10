@@ -4,14 +4,6 @@
 Project Overview
 This setup enhances the Duino-Coin mining operation by providing an interactive and informative display. It's designed for those interested in combining hardware interfacing, software development, and cryptocurrency mining into one engaging project.
 
-Getting Started
-Prerequisites
-ESP8266 NodeMCU
-TZT 1.77 inch color screen with ST7735 driver
-Jumper wires
-Arduino IDE installed on your computer
-Installation
-Download Mining Code:
 
 Visit the Duino-Coin website, click on "Get Started," and set up an account.
 Navigate to the 'Miners' section and download the ESP8266 mining code suitable for this project.
